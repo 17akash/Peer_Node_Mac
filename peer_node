@@ -2,9 +2,9 @@
 
 git clone https://github.com/17akash/Peer_Mac.git
 
-cd Peer_Node_Mac
+cd Peer_Mac
 
-sudo chmod +x substrate 
+sudo chmod +x substrate_mac
 
 
 echo "Enter Your Node Name: "
