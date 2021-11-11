@@ -10,6 +10,8 @@ git checkout Mac_Binary
 
 cd peer-node-installer
 
+git checkout Mac_Binary
+
 sudo chmod +x substrate_mac
 
 
