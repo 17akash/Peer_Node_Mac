@@ -8,7 +8,7 @@ git clone https://github.com/PEER-Inc/peer-node-installer.git
 
 git checkout Mac_Binary
 
-cd Peer_Mac
+cd peer-node-installer
 
 sudo chmod +x substrate_mac
 
