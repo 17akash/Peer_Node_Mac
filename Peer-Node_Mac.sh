@@ -4,7 +4,9 @@
 
 brew install git
 
-git clone https://github.com/17akash/Peer_Mac.git
+git clone https://github.com/PEER-Inc/peer-node-installer.git
+
+git checkout Mac_Binary
 
 cd Peer_Mac
 
